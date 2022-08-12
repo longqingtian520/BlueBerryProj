@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2c44ec0-6289-4da1-b45a-439cf3a2f90b" name="Default Changelist" comment="aggtd">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26xnw0O0iufLP5CMGASJf9aDF8H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/codefiles/vuecode/RuoYi-Vue/ruoyi-ui&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\CompileFiles\crissfile\blueberry\Blueberry\src\utils" />
+      <recent name="F:\CompileFiles\crissfile\blueberry\Blueberry\src\components" />
+      <recent name="F:\CompileFiles\crissfile\blueberry\Blueberry\src\api" />
+      <recent name="F:\CompileFiles\crissfile\blueberry\Blueberry\src\assets\carousel" />
+      <recent name="F:\CompileFiles\crissfile\blueberry\Blueberry\src\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\CompileFiles\crissfile\blueberry\Blueberry\src\layout\components" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration default="true" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts />
+      <arguments value="dev" />
+      <node-interpreter value="E:/Program Files/nodejs/node" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="node" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="node" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.start" />
+      <item itemvalue="npm.build" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2c44ec0-6289-4da1-b45a-439cf3a2f90b" name="Default Changelist" comment="" />
+      <created>1648374339204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648374339204</updated>
+      <workItem from="1648374341320" duration="27379000" />
+      <workItem from="1650115615032" duration="21452000" />
+      <workItem from="1651931080468" duration="38434000" />
+      <workItem from="1652799204531" duration="3557000" />
+      <workItem from="1653184627360" duration="9805000" />
+      <workItem from="1653225884578" duration="5931000" />
+      <workItem from="1653314783220" duration="3950000" />
+      <workItem from="1653397614797" duration="5980000" />
+      <workItem from="1653474277254" duration="8273000" />
+      <workItem from="1653490811188" duration="1334000" />
+      <workItem from="1653573604649" duration="2935000" />
+      <workItem from="1653654435866" duration="7303000" />
+      <workItem from="1653732725566" duration="11178000" />
+      <workItem from="1653914809822" duration="6580000" />
+      <workItem from="1654091498328" duration="4234000" />
+      <workItem from="1654169302802" duration="7149000" />
+      <workItem from="1654432738759" duration="2299000" />
+      <workItem from="1654523969744" duration="1790000" />
+      <workItem from="1654781395325" duration="4017000" />
+      <workItem from="1654864986450" duration="6201000" />
+      <workItem from="1654956116795" duration="2250000" />
+      <workItem from="1654998213754" duration="3377000" />
+      <workItem from="1656763963753" duration="1660000" />
+      <workItem from="1660140215432" duration="1641000" />
+      <workItem from="1660283060168" duration="11000" />
+      <workItem from="1660283165908" duration="28000" />
+      <workItem from="1660301694021" duration="627000" />
+      <workItem from="1660302335047" duration="52000" />
+      <workItem from="1660302454992" duration="4142000" />
+    </task>
+    <task id="LOCAL-00001" summary="a">
+      <created>1660306398649</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660306398649</updated>
+    </task>
+    <task id="LOCAL-00002" summary="a">
+      <created>1660306434251</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660306434251</updated>
+    </task>
+    <task id="LOCAL-00003" summary="agg">
+      <created>1660306557697</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660306557697</updated>
+    </task>
+    <task id="LOCAL-00004" summary="aggt">
+      <created>1660306768813</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660306768813</updated>
+    </task>
+    <task id="LOCAL-00005" summary="aggtd">
+      <created>1660307089135</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660307089135</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="a" />
+    <MESSAGE value="agg" />
+    <MESSAGE value="aggt" />
+    <MESSAGE value="aggtd" />
+    <option name="LAST_COMMIT_MESSAGE" value="aggtd" />
+  </component>
+</project>
